@@ -1,4 +1,4 @@
-# Rspack Project
+# View Gallery (Rspack Project)
 
 ## Setup
 
@@ -20,4 +20,9 @@ Build the app for production:
 
 ```bash
 npm run build
+```
+
+Servidor Mock (API)
+```bash
+npm run mocks
 ```
